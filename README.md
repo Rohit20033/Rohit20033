@@ -1,13 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Rohit Prajapat</h1>
 <h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant and efficient code. Highly skilled in collaboration, decision-making.</h3>
+<image src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-<image src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+- 👨‍💻 All of my projects are available at [https://rohit20033.github.io/](https://rohit20033.github.io/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit20033" alt="rohit20033" /></a> </p>
+- 💬 Ask me about **React ,Dsa,Javascript,Redux,Mongodb,Express**
 
 - 📫 How to reach me **Rohitkumarprajapat303@gmail.com**
-- 
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XuuYqGIkyBi_ojJj1UK0EJ08loxtzs9f/view?usp=sharing](https://drive.google.com/file/d/1XuuYqGIkyBi_ojJj1UK0EJ08loxtzs9f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit20033&show_icons=true&locale=en&layout=compact" alt="rohit20033" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit20033&show_icons=true&locale=en" alt="rohit20033" /></p>
-
