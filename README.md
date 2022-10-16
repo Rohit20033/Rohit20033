@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rohit Prajapat</h1>
 <h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant and efficient code. Highly skilled in collaboration, decision-making.</h3>
 
+<image src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit20033" alt="rohit20033" /></a> </p>
 
 - 📫 How to reach me **Rohitkumarprajapat303@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
